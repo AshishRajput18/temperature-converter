@@ -18,6 +18,5 @@ This is a simple **Temperature Converter** web application that allows users to 
 2. Enter a temperature value in either the **Celsius** or **Fahrenheit** input field.
 3. The corresponding temperature in the other unit will be automatically calculated.
 
-## 🏗️ Project Structure
 
 
